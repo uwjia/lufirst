@@ -3,5 +3,5 @@ package somefm
 import "fmt"
 
 func PrintHello() {
-	fmt.Println("hello lufirst")
+	fmt.Println("hello lufirst, update")
 }
